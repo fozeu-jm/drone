@@ -1,0 +1,5 @@
+/home/kwd/Desktop/clion-2019.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/kwd/Desktop/c++ projects/drone project"
+-- >>> LINUX
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kwd/Desktop/c++ projects/drone project/cmake-build-debug

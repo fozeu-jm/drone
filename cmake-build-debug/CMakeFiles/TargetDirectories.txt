@@ -1,0 +1,3 @@
+/home/kwd/Desktop/c++ projects/drone project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kwd/Desktop/c++ projects/drone project/cmake-build-debug/CMakeFiles/drone_project.dir
+/home/kwd/Desktop/c++ projects/drone project/cmake-build-debug/CMakeFiles/edit_cache.dir

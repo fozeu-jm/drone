@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../glutInterface/glutWindow.h
+iostream
+-
+string
+-
+cassert
+-
+cmath
+-
+GL/freeglut.h
+-
+GLUT/glut.h
+-
+
+/home/kwd/Desktop/c++ projects/drone project/Mesh.hpp
+vector
+-
+list
+-
+Triangle.hpp
+/home/kwd/Desktop/c++ projects/drone project/Triangle.hpp
+
+/home/kwd/Desktop/c++ projects/drone project/MyPolygon.hpp
+vector
+-
+stack
+-
+algorithm
+-
+cstring
+-
+glutWindow.h
+-
+list
+-
+iterator
+-
+Triangle.hpp
+/home/kwd/Desktop/c++ projects/drone project/Triangle.hpp
+server.hpp
+/home/kwd/Desktop/c++ projects/drone project/server.hpp
+
+/home/kwd/Desktop/c++ projects/drone project/Triangle.hpp
+determinant.h
+/home/kwd/Desktop/c++ projects/drone project/determinant.h
+Vector2D.hpp
+/home/kwd/Desktop/c++ projects/drone project/Vector2D.hpp
+glutWindow.h
+-
+vector
+-
+
+/home/kwd/Desktop/c++ projects/drone project/Vector2D.hpp
+cmath
+-
+
+/home/kwd/Desktop/c++ projects/drone project/determinant.h
+
+/home/kwd/Desktop/c++ projects/drone project/drone.hpp
+glutWindow.h
+-
+Vector2D.hpp
+/home/kwd/Desktop/c++ projects/drone project/Vector2D.hpp
+server.hpp
+/home/kwd/Desktop/c++ projects/drone project/server.hpp
+Triangle.hpp
+/home/kwd/Desktop/c++ projects/drone project/Triangle.hpp
+
+/home/kwd/Desktop/c++ projects/drone project/main.cpp
+array
+-
+glutWindow.h
+-
+fstream
+-
+Mesh.hpp
+/home/kwd/Desktop/c++ projects/drone project/Mesh.hpp
+server.hpp
+/home/kwd/Desktop/c++ projects/drone project/server.hpp
+MyPolygon.hpp
+/home/kwd/Desktop/c++ projects/drone project/MyPolygon.hpp
+Triangle.hpp
+/home/kwd/Desktop/c++ projects/drone project/Triangle.hpp
+drone.hpp
+/home/kwd/Desktop/c++ projects/drone project/drone.hpp
+
+/home/kwd/Desktop/c++ projects/drone project/server.hpp
+string
+-
+
